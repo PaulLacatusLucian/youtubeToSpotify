@@ -1,0 +1,3 @@
+google-api-python-client==1.8.2
+google-auth-authlib==0.4.1
+youtube-dl==2020.3.24
